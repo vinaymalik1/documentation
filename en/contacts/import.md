@@ -87,7 +87,7 @@ There is an option in the Global Mautic Configuration / Contact Settings to defi
 
 - In case of boolean values like `doNotEmail` or custom boolean field, use values `true`, `1`, `on` or `yes` as TRUE value. Anything else will be considered false.
 
-- In case of date/time values, use `YYYY-mm-dd HH:ii:ss` format i.e. `2017:01:02 19:08:00`. Other formats may work too, but it may cause troubles.
+- In case of date/time values, use `YYYY-mm-dd HH:ii:ss` format i.e. `2017-01-02 19:08:00`. Other formats may work too, but it may cause troubles.
 
 ## Tips
 
